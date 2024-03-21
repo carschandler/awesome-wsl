@@ -271,6 +271,7 @@ Unofficial distributions must be installed manually or with tools listed below. 
 - [DevuanWSL](https://github.com/VPraharsha03/DevuanWSL) - Devuan Linux as a WSL Distro. Devuan is a Debian variant without the complexities and dependencies of systemd. ![github project][githublogo]
 - [ManjaroWSL2](https://github.com/sileshn/ManjaroWSL2) - Manjaro as a WSL2 distro based on wsldl. ![github project][githublogo]
 - [WSLackware](https://github.com/Mohsens22/WSLackware) - Slackware as a WSL distro. ![github project][githublogo]
+- [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS as a WSL distro. ![github project][githublogo]
 
 ## WSL Tools
 
